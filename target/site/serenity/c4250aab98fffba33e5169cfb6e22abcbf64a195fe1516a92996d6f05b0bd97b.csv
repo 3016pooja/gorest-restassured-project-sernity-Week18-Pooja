@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users CURD test with steps","This will create a new User","SUCCESS","2023-01-03T18:03:35.386Z[Europe/London]","0.0","3.68"
+"Users CURD test with steps","Verify if the User was added to the application","SUCCESS","2023-01-03T18:03:39.081Z[Europe/London]","0.0","0.77"
+"Users CURD test with steps","Update the user information and verify the updated information","SUCCESS","2023-01-03T18:03:39.854Z[Europe/London]","0.0","1.4"
+"Users CURD test with steps","Delete the student and verify if the student is deleted!","SUCCESS","2023-01-03T18:03:41.259Z[Europe/London]","0.0","1.43"
